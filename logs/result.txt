@@ -1,0 +1,7 @@
+=== ACCURACY ===
+Markov Top-1: 0.4601
+Markov Top-3: 0.9107
+RF Top-1: 0.5297
+RF Top-3: 0.9282
+Hybrid Top-1: 0.4602
+Hybrid Top-3: 0.8691
